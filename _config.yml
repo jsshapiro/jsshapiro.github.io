@@ -30,7 +30,7 @@ github_username:  jsshapiro
 name: Jonathan Shapiro
 
 # Build settings
-#theme: jekyll-text-theme
+theme: jekyll-text-theme
 remote_theme: kitian616/jekyll-TeXt-theme
 text_skin: ocean
 highlight_theme: tomorrow
